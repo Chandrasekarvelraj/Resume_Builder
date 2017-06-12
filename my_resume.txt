@@ -1,0 +1,15 @@
+		My Resume Created Using Resume Builder
+
+Personal details :
+
+	First Name :abcd
+	Last Name :efgh
+	Email :acbs@fags.com
+	Phone :1234567890
+	Date Of Birth :12/02/1994
+
+
+Professional details :
+
+	Work Experience :3
+	Work Description :I am an employee
